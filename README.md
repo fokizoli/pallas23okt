@@ -4,3 +4,4 @@
 # teljesen más megoldás
 # valami más srthstrh 
 # valami más stzdkghdl zuudzki
+# tesztkörnyezet
