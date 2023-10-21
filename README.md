@@ -4,3 +4,6 @@
 # teljesen más megoldás
 # valami más srthstrh 
 # valami más stzdkghdl zuudzki
+# tesztkörnyezet
+# teszt vs code
+# próba branch
