@@ -2,4 +2,4 @@
 # github böngésző
 # próba böngésző
 # teljesen más megoldás
-# valami más
+# valami más stzdkghdl zuudzki
