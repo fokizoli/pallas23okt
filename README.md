@@ -9,3 +9,4 @@
 # próba branch
 # pallas
 # Vig Gábor
+# Rideg Renáta jawa89
