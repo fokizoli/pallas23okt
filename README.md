@@ -8,3 +8,4 @@
 # teszt vs code
 # próba branch
 # pallas
+# Vig Gábor
