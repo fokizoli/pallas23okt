@@ -9,3 +9,4 @@
 # próba branch
 # pallas
 # Vig Gábor
+# github JIRA összekötés
